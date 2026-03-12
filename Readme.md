@@ -1,4 +1,3 @@
-#Devops NGINX Demo
 
 #steps
 
@@ -9,3 +8,6 @@ sudo apt install nginx
 sudo systemctl start nginx
 
 sudo systemctl enable nginx
+
+making changes to readme
+
